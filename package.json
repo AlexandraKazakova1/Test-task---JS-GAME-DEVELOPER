@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
   },
   "keywords": [],
   "author": "Olexandra Kazakova <zemzikova.oleksandra@gmail.com>",
@@ -11,5 +12,8 @@
   "description": "",
   "dependencies": {
     "pixi.js": "^8.6.6"
+  },
+  "devDependencies": {
+    "vite": "^6.0.3"
   }
 }
