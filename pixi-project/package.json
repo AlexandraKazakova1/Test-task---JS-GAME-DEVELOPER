@@ -1,0 +1,15 @@
+{
+  "name": "pixi-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Olexandra Kazakova <zemzikova.oleksandra@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pixi.js": "^8.6.6"
+  }
+}
